@@ -63,7 +63,7 @@ public class classMenu {
 		case 1:
 		{
 			//addproduct();
-			System.out.println("add input");
+			//encapsulation();
 			break;
 		}
 		case 2:
